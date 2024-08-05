@@ -1,2 +1,4 @@
 # Python-Algorithms
-Algorithmes in python language
+Algorithmes in python language:
+
+- String Algorithms
